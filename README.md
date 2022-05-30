@@ -4,7 +4,7 @@
 -  I’m looking foward to learn more and more about progaming 
 -  How to reach me: 
 - instagram: daniel_na486
-- I pretend to work as a game developer but I also have interest in other areas such as IA...
+- I pretend to work as a game developer but I also have interest in other areas such as AI...
 
 <!---
 1Kote/1Kote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
