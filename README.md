@@ -1,9 +1,7 @@
 -  Hi, I’m Daniel Nascimento Araújo
 -  I’m a Software Engenier Student 
--  Currently working as Python and Java developer
 -  I’m looking foward to learn more and more about progaming 
--  How to reach me: 
--  Instagram: n.daniel_p
+-  How to reach me:
 -  Linkedin: https://www.linkedin.com/in/danielnascs/
 
 
