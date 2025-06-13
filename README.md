@@ -1,6 +1,6 @@
--  Hi, I’m Daniel Nascimento Araújo
--  I’m a Software Engenier Student 
--  I’m looking foward to learn more and more about progaming 
+-  Hi, I’m Daniel Nascimento Araújo 
+-  I’m a Software Engenier Student and programmer
+-  Right now my focus its on Java, Spring and MySql
 -  How to reach me:
 -  Linkedin: https://www.linkedin.com/in/danielnascs/
 
